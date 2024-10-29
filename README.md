@@ -1,6 +1,6 @@
-# ToDo List API
+# To-do List API
 
-## Project Overview
+## Project Overviewis 
 This project is a simple RESTful API built with FastAPI that allows users to manage a to-do list.
 It supports basic CRUD operations to create, read, update, and delete to-do items.
 
@@ -13,7 +13,9 @@ It supports basic CRUD operations to create, read, update, and delete to-do item
 To get started with this project, clone the repository and install the required dependencies.
 To run the application locally, use the following command:
 
+```bash
 uvicorn main:app --reload
+```
 
 The API will be available at http://127.0.0.1:8000.
 You can access the automatic Swagger UI documentation at http://127.0.0.1:8000/docs to interact with the API.
